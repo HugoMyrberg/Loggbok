@@ -23,3 +23,7 @@ Måndag: Idag har jag gjort klart och lämnat in vår styleguide som vi har miss
 Veck 13
 
 Måndag: Idag har jag kollat upp vilka bilder vi skulle kunna ha som bakgrundsbilder på våran hemsida samt hur vi skulle kunna lägga ihop flera bilder för att skapa en snygg struktur. Vi har som grupp diskuterat om hur vi ska gå till väga med all text vi skall ha, om vi vill ha en transparant bakgrunds bild med text över eller om vi bara vill ha en vit bakgrundsbild med svart text och lite bilder men i slutända kom vi fram till att vi skulle ha en main bakgrundsbild med flera bakgrundsbilder över och sedan skrivit text över det. 
+
+vecka 14
+
+Måndag: Dagens lektion arbetade jag med våran sidas call to action.
