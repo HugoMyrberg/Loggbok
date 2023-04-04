@@ -27,3 +27,5 @@ Måndag: Idag har jag kollat upp vilka bilder vi skulle kunna ha som bakgrundsbi
 vecka 14
 
 Måndag: Dagens lektion arbetade jag med våran hemsidas call to action. Vi diskuterade om vilket syfte och vad vi ville förmedla med varje sida till läsaren. Sedan beslutade vi om vilken call to action vi skulle ha. 
+
+tisdag: Idag fortsatte jag med vilka call to actions vi ska ha.
