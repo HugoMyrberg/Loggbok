@@ -29,3 +29,15 @@ vecka 14
 Måndag: Dagens lektion arbetade jag med våran hemsidas call to action. Vi diskuterade om vilket syfte och vad vi ville förmedla med varje sida till läsaren. Sedan beslutade vi om vilken call to action vi skulle ha. 
 
 tisdag: Idag fortsatte jag med vilka call to actions vi ska ha.
+
+vecka 15
+
+Måndag: lektionstiden gick åt till att kolla igenom allting så det såg bra ut, att vi inte har missat några småfel och få en helbild på hur vi ligger till.
+
+Tisdag: Under lektionen fortsatte jag att kolla igenom allting.
+
+Vecka 16
+
+Måndag: Dagens lektion ägnade jag till att hitta ett analytiska verktyg som vi kan använda till våran hemsida. 
+
+Tisdag: Idag fortsatte jag med att leta efter ett bra analytiskt verktyg.
